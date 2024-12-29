@@ -1,0 +1,7 @@
+../Core/Src/k_mem.c:28:5:order_finder	24	static
+../Core/Src/k_mem.c:39:6:free_add	24	static
+../Core/Src/k_mem.c:49:6:free_remove	24	static
+../Core/Src/k_mem.c:70:5:k_mem_init	16	static
+../Core/Src/k_mem.c:96:7:k_mem_alloc	48	static
+../Core/Src/k_mem.c:133:5:k_mem_dealloc	72	static
+../Core/Src/k_mem.c:216:5:k_mem_count_extfrag	32	static

@@ -1,0 +1,14 @@
+../Core/Src/kernel_api.c:22:6:nullTask	1
+../Core/Src/kernel_api.c:29:5:get_isInitialized	1
+../Core/Src/kernel_api.c:34:6:osKernelInit	4
+../Core/Src/kernel_api.c:83:5:osKernelStart	4
+../Core/Src/kernel_api.c:125:5:osCreateTask	20
+../Core/Src/kernel_api.c:262:5:osTaskInfo	3
+../Core/Src/kernel_api.c:291:8:osGetTID	2
+../Core/Src/kernel_api.c:297:5:osTaskExit	2
+../Core/Src/kernel_api.c:322:6:osYield	3
+../Core/Src/kernel_api.c:353:6:SVC_Handler_Main	4
+../Core/Src/kernel_api.c:394:8:edfScheduler	12
+../Core/Src/kernel_api.c:449:5:osSetDeadline	5
+../Core/Src/kernel_api.c:468:6:osSleep	1
+../Core/Src/kernel_api.c:490:5:osCreateDeadlineTask	19

@@ -1,0 +1,14 @@
+../Core/Src/kernel_api.c:22:6:nullTask	8	static
+../Core/Src/kernel_api.c:29:5:get_isInitialized	4	static
+../Core/Src/kernel_api.c:34:6:osKernelInit	16	static
+../Core/Src/kernel_api.c:83:5:osKernelStart	16	static,ignoring_inline_asm
+../Core/Src/kernel_api.c:125:5:osCreateTask	64	static,ignoring_inline_asm
+../Core/Src/kernel_api.c:262:5:osTaskInfo	16	static
+../Core/Src/kernel_api.c:291:8:osGetTID	4	static
+../Core/Src/kernel_api.c:297:5:osTaskExit	8	static,ignoring_inline_asm
+../Core/Src/kernel_api.c:322:6:osYield	16	static,ignoring_inline_asm
+../Core/Src/kernel_api.c:353:6:SVC_Handler_Main	24	static,ignoring_inline_asm
+../Core/Src/kernel_api.c:394:8:edfScheduler	24	static,ignoring_inline_asm
+../Core/Src/kernel_api.c:449:5:osSetDeadline	24	static,ignoring_inline_asm
+../Core/Src/kernel_api.c:468:6:osSleep	24	static,ignoring_inline_asm
+../Core/Src/kernel_api.c:490:5:osCreateDeadlineTask	64	static,ignoring_inline_asm

@@ -1,0 +1,7 @@
+../Core/Src/k_mem.c:28:5:order_finder	2
+../Core/Src/k_mem.c:39:6:free_add	2
+../Core/Src/k_mem.c:49:6:free_remove	5
+../Core/Src/k_mem.c:70:5:k_mem_init	4
+../Core/Src/k_mem.c:96:7:k_mem_alloc	6
+../Core/Src/k_mem.c:133:5:k_mem_dealloc	16
+../Core/Src/k_mem.c:216:5:k_mem_count_extfrag	5
